@@ -1,13 +1,13 @@
 
 <h1>Política de Privacidad</h1>
-<p class="fecha">Recordatorio de Medicinas — Última actualización: [FECHA]</p>
+<p class="fecha">Recordatorio de Medicinas — Última actualización: 06/08/2026</p>
 
 <p>Esta Política de Privacidad describe cómo <strong>Recordatorio de Medicinas</strong>
 ("la App") recopila, usa y protege la información de sus usuarios.</p>
 
 <h2>1. Responsable de la aplicación</h2>
-<p>[TU NOMBRE O EL DE TU EMPRESA]<br>
-Correo de contacto: <a href="mailto:[TU CORREO]">[TU CORREO]</a></p>
+<p>Shell Core Software<br>
+Correo de contacto: <a href="mailto:">shellcoresoftware8@gmail.com</a></p>
 
 <h2>2. Información que recopilamos</h2>
 
@@ -76,7 +76,7 @@ fecha de "Última actualización" en esta misma página.</p>
 <div class="contacto">
   <h2 style="margin-top:0; border:none;">10. Contacto</h2>
   <p style="margin-bottom:0;">Si tienes preguntas sobre esta política, escríbenos a:
-  <a href="mailto:[TU CORREO]">[TU CORREO]</a></p>
+  <a href="mailto:shellcoresoftware8@gmail.com">shellcoresoftware8@gmail.com</a></p>
 </div>
 
 </body>
