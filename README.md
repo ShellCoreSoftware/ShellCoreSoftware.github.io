@@ -2,7 +2,7 @@
 <h1>Política de Privacidad</h1>
 <p class="fecha">Recordatorio de Medicinas — Última actualización: 06/08/2026</p>
 
-<p>Esta Política de Privacidad describe cómo <strong>Recordatorio de Medicinas</strong>
+<p>Esta Política de Privacidad describe cómo <strong>Doctor Reminder</strong>
 ("la App") recopila, usa y protege la información de sus usuarios.</p>
 
 <h2>1. Responsable de la aplicación</h2>
