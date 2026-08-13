@@ -169,7 +169,7 @@ las indicaciones proporcionadas por su profesional sanitario.</p>
 <h2>12. Cambios a esta política</h2>
 
 <p>Shell Core Software puede actualizar esta Política de Privacidad cuando sea
-necesario debido a cambios en Doctor Reminder, en sus funciones o en los requisitos
+necesario debido a cambios en Dr. Reminder, en sus funciones o en los requisitos
 legales aplicables.</p>
 
 <p>Los cambios se reflejarán mediante una nueva fecha de "Última actualización" en
