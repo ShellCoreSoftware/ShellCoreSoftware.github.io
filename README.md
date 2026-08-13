@@ -3,7 +3,7 @@
 <p class="fecha">Doctor Reminder — Última actualización: 12/08/2026</p>
 
 <p>Esta Política de Privacidad describe cómo <strong>Shell Core Software</strong>
-("la App") gestiona la información que los usuarios introducen y utilizan dentro de
+ gestiona la información que los usuarios introducen y utilizan dentro de
 <strong>Doctor Reminder</strong>.</p>
 
 <h2>1. Responsable de la aplicación</h2>
