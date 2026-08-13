@@ -1,10 +1,10 @@
 
 <h1>Política de Privacidad</h1>
-<p class="fecha">Doctor Reminder — Última actualización: 12/08/2026</p>
+<p class="fecha">Dr. Reminder — Última actualización: 12/08/2026</p>
 
 <p>Esta Política de Privacidad describe cómo <strong>Shell Core Software</strong>
  gestiona la información que los usuarios introducen y utilizan dentro de
-<strong>Doctor Reminder</strong>.</p>
+<strong>Dr Reminder</strong>.</p>
 
 <h2>1. Responsable de la aplicación</h2>
 <p>
@@ -87,7 +87,7 @@ reflejar dichos cambios.</p>
 <h2>6. Permisos que solicita la App</h2>
 
 <p>Dependiendo de la versión del sistema operativo y de las funciones utilizadas,
-Doctor Reminder puede solicitar los siguientes permisos:</p>
+Dr. Reminder puede solicitar los siguientes permisos:</p>
 
 <ul>
   <li><strong>Notificaciones:</strong> para mostrar los recordatorios de medicamentos.</li>
@@ -111,7 +111,7 @@ determinar enfermedades ni establecer tratamientos.</p>
 
 <h2>8. Menores de edad</h2>
 
-<p>Doctor Reminder puede utilizarse para registrar información relacionada con los
+<p>Dr. Reminder puede utilizarse para registrar información relacionada con los
 medicamentos de un menor bajo la supervisión y responsabilidad de su padre, madre
 o tutor legal.</p>
 
@@ -145,7 +145,7 @@ eliminarse de acuerdo con el comportamiento del sistema operativo.</p>
 
 <h2>11. Información médica y responsabilidad</h2>
 
-<p>Doctor Reminder es una herramienta de organización y recordatorio. La App no
+<p>Dr. Reminder es una herramienta de organización y recordatorio. La App no
 constituye un servicio médico y no sustituye las indicaciones de un profesional
 sanitario.</p>
 
@@ -181,7 +181,7 @@ esta misma página.</p>
   <h2 style="margin-top:0; border:none;">13. Contacto</h2>
   <p style="margin-bottom:0;">
     Si tienes preguntas, comentarios o solicitudes relacionadas con esta Política de
-    Privacidad o con el tratamiento de información en Doctor Reminder, puedes
+    Privacidad o con el tratamiento de información en Dr. Reminder, puedes
     escribirnos a:
     <a href="mailto:shellcoresoftware8@gmail.com">shellcoresoftware8@gmail.com</a>
   </p>
